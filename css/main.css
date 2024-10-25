@@ -1341,6 +1341,7 @@ pre .javascript .function {
 }
 .site-state {
   display: flex;
+  flex-direction: column;
   justify-content: center;
   line-height: 1.4;
   margin-top: 10px;
